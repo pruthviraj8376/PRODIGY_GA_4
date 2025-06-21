@@ -10,3 +10,6 @@ TensorFlow
 TensorFlow Datasets (tfds)
 Matplotlib
 Pix2Pix from tensorflow_examples
+
+Author 
+Pruthviraj Bhapkar
